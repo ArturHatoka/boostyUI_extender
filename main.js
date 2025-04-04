@@ -1,2 +1,3 @@
 // TODO переключение темы
-// document.body.classList.add('black-theme');
+document.body.classList.add('dark-theme');
+

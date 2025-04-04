@@ -7,8 +7,9 @@ html:root{
     --var-border-color: 255, 255, 255;
     --color-light-base-border: 255, 255, 255;
     --var-border-opacity: 0.12;
-    --var-color-input-border: rgba(255, 255, 255, 0.12);;
-    --var-color-input-contained-bg: rgba(255, 255, 255, 0.12);;
+    --var-color-input-border: rgba(255, 255, 255, 0.12);
+    --var-color-input-contained-bg: rgba(255, 255, 255, 0.12);
+    --var-color-post-text: rgb(255, 255, 255);
 }
 
 body {
