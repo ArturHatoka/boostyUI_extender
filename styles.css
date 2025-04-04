@@ -10,6 +10,7 @@ html:root{
     --var-color-input-border: rgba(255, 255, 255, 0.12);
     --var-color-input-contained-bg: rgba(255, 255, 255, 0.12);
     --var-color-post-text: rgb(255, 255, 255);
+    --var-color-icon-ui: rgb(255, 255, 255);
 }
 
 body {
